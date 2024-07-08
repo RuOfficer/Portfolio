@@ -17,23 +17,23 @@ export const Footer = () => {
       <StyledMenu>
         <ul>
           <li>
-            <a>Home</a>
+            <a href='#'>Home</a>
           </li>
           <li>
-            <a>About</a>
+            <a href='#'>About</a>
           </li>
           <li>
-            <a>Technologies</a>
+            <a href='#'>Technologies</a>
           </li>
           <li>
-            <a>Projects</a>
+            <a href='#'>Projects</a>
           </li>
           <li>
-            <a>Contact</a>
+            <a href='#'>Contact</a>
           </li>
         </ul>
         <StyledTextAboutMe>
-          Designed and built by <StyledSpan>Pavan MG</StyledSpan> with{" "}
+          Designed and built by <StyledSpan>Konstantin S</StyledSpan> with{" "}
           <StyledSpan>Love</StyledSpan> & <StyledSpan>Coffee</StyledSpan>
         </StyledTextAboutMe>
       </StyledMenu>
